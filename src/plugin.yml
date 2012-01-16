@@ -1,0 +1,8 @@
+name: EggsManager
+version: 0.3
+authors: [Madsens90, Tauryuu]
+main: dk.shax.EggsManager
+commands:
+    eggsmanager:
+        description: Use command reload to reload plugin, and reset to reset config file.
+        usage: /eggsmanager <Command> <True/False>
